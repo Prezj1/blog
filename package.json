@@ -15,5 +15,8 @@
     "express": "^4.16.3",
     "lodash": "^4.17.11",
     "mongoose": "^5.3.6"
+  },
+  "devDependencies": {
+    "webpack-merge": "^5.7.3"
   }
 }
